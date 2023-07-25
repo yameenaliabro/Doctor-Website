@@ -1,0 +1,15 @@
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.content h2{
+    background-color: rgba(0, 0, 0, 0.797);
+    color:#fff;
+    padding: 10px;
+
+}
+.heading p{
+    margin-top: 100px;
+}

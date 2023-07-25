@@ -1,0 +1,7 @@
+.set-img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
